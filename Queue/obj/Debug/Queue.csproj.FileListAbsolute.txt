@@ -1,0 +1,12 @@
+D:\Projects\git\Queue\Queue\bin\Debug\Queue.exe.config
+D:\Projects\git\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+D:\Projects\Git\Queue\Queue\bin\Debug\Queue.exe
+D:\Projects\Git\Queue\Queue\bin\Debug\Queue.pdb
+D:\Projects\Git\Queue\Queue\obj\Debug\Queue.exe
+D:\Projects\Git\Queue\Queue\obj\Debug\Queue.pdb
+D:\Projects\Git\queuekasperskytest\Queue\bin\Debug\Queue.exe.config
+D:\Projects\Git\queuekasperskytest\Queue\obj\Debug\Queue.exe
+D:\Projects\Git\queuekasperskytest\Queue\obj\Debug\Queue.pdb
+D:\Projects\Git\queuekasperskytest\Queue\bin\Debug\Queue.exe
+D:\Projects\Git\queuekasperskytest\Queue\bin\Debug\Queue.pdb
+D:\Projects\Git\queuekasperskytest\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache

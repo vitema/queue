@@ -1,0 +1,8 @@
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\bin\Debug\Queue.exe
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\bin\Debug\Queue.pdb
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Projects\Git\queuekasperskytest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
